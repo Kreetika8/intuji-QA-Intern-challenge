@@ -1,0 +1,1 @@
+# intuji-QA-Intern-challenge
