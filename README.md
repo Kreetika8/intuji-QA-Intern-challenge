@@ -9,6 +9,6 @@ This repository contains Cypress test scripts created as part of the Intuji QA I
 
 
 ### Install Dependencies
-npm install
+npm install, 
 npm install --save-dev cypress-file-upload
 
